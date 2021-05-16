@@ -1,0 +1,18 @@
+en:
+  activerecord:
+    models:
+      admin:
+        obe: Administrador
+        other: Administradores
+      profile:
+        obe: Usuário
+        other: Usuário
+    attributes:
+      admin:
+        email: Email
+        created_at: Criado em
+        updated_at: Atualizado em
+      profile:
+        email: Email
+        created_at: Criado em
+        updated_at: Atualizado em
